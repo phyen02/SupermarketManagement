@@ -1,0 +1,1 @@
+Supermarket Management project using C# & SQL Server
